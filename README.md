@@ -1,10 +1,17 @@
 When Running the program, first you must enter a .csv or .xlsx(Excel) file from memory. 
+
 The file should be formatted accordingly:
+
 (Row x) Object Name (ex. Parrot)
+
 (Row x+1)(Column 0) Feature Name (ex. Color) (Row x+1)(Column 1) Value (ex. 1)
+
 (Row x+2)(Column(0) Feature Name (ex. WingSpan) (Row x+2)(Column 1) Value (ex. 2.43)
+
 ...
+
 (Row x+n) New Object Name (ex. Desk)
+
 ...
 
 
